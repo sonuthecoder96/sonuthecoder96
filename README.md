@@ -1,6 +1,6 @@
-<h2 align="left">Hi 👋! My name is Prashant Singh and I'm a Tech enthusiast</h2>
+
 <img src = "github-header-image.png"/>
-###
+
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=sonuthecoder96&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
