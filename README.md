@@ -1,6 +1,5 @@
 <h2 align="left">Hi 👋! My name is Prashant Singh and I'm a Tech enthusiast</h2>
-![Header](/github-header-image.png)
-
+<img src = "github-header-image.png"/>
 ###
 
 <div align="center">
