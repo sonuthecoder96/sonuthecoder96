@@ -1,19 +1,3 @@
- <style>
-    .tech-logo {
-      transition: transform 0.3s ease-in-out;
-    }
-    .tech-logo:hover {
-      transform: scale(1.2) rotate(5deg);
-    }
-    .pulse {
-      animation: pulse 2s infinite;
-    }
-    @keyframes pulse {
-      0% { transform: scale(1); }
-      50% { transform: scale(1.1); }
-      100% { transform: scale(1); }
-    }
-  </style>
 <img src = "github-header-image.png"/>
 <h2 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=00e676&center=true&vCenter=true&lines=Web+Developer;Competitive+Programmer;Tech+Enthusiast" alt="Typing SVG" />
