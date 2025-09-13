@@ -1,7 +1,7 @@
 
 <img src = "github-header-image.png"/>
 <h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&lines=Web+Developer;Competitive+Programmer;Tech+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=10B981&center=true&vCenter=true&lines=Web+Developer;Competitive+Programmer;Tech+Enthusiast" alt="Typing SVG" />
 </h2>
 
 
@@ -16,7 +16,7 @@
 
 
 ###
-<h3 align="centre">🛠 Language and tools</h3>
+<h3 align="center">🛠 Language and tools</h3>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
